@@ -31,7 +31,7 @@ Then I have a recursive function called Koch that makes recursive calls to that 
 
 see it live here:
 
-https://kochTreejs.greggelong.repl.co
+https://greggelong.github.io/kochTreejs
 
 the mouse changes the level of the curve and the angle of the tree
 
