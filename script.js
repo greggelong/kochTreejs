@@ -6,6 +6,10 @@ function setup(){
     background(50)
     output = createP("output")
     checkbox = createCheckbox('scroll them', false);
+    
+    createP();
+    createP(); // put some space between button and link
+    createA('https://github.com/greggelong/kochTreejs', 'link to this  repo');
 
     stroke(255)
     //angleMode(DEGREES)
